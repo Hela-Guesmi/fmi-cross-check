@@ -1,0 +1,1 @@
+An alternative to the im.csv file is to configure the input "step" in CEE with the signal generator feature
